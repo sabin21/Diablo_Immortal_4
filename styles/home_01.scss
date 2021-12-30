@@ -151,19 +151,18 @@
 	}
 	
 	&:hover {
-		background-color: #efefef;
-		color: #1A1F24;
+		//background-color: #efefef;
+		//color: #1A1F24;
 
 		img {
 			animation: rollCage 10000ms linear infinite;
 		}
 		
 		& .-green {
-			color: #BEB9A3;
+			//color: #BEB9A3;
 		}
 	}
 }
-
 .-green {
 	color: #fff;
 	font-weight: 900;

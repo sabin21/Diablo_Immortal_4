@@ -313,18 +313,9 @@
           animation-duration: 25000ms;
 }
 
-.track:hover {
-  background-color: #efefef;
-  color: #1A1F24;
-}
-
 .track:hover img {
   -webkit-animation: rollCage 10000ms linear infinite;
           animation: rollCage 10000ms linear infinite;
-}
-
-.track:hover .-green {
-  color: #BEB9A3;
 }
 
 .-green {
